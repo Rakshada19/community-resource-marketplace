@@ -423,3 +423,4 @@ Stores product categories.
 - Ensure traceability of donations
 - Maintain clear separation between users and NGOs
 
+---
